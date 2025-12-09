@@ -1,4 +1,4 @@
- 				/* ------------ Perceval macro ------------  */
+ 				/* ------------ Met-Vision macro ------------  */
 
 
 #@ String(label="Markers (sort by channel number)", style="test field") markers_names
