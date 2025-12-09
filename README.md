@@ -42,7 +42,7 @@ To download python: https://www.python.org/downloads/. The version used for this
 Clone the repository:
 
 ```SHELL
-git clone https://github.com/AdrianaBioinfo/Met-Vision.git
+git clone https://github.com/AdrianaBioinfo/MetVision.git
 ```
 
 Move to the new directory:
